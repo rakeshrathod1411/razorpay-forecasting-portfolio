@@ -1,0 +1,26 @@
+# Virtual environment
+venv/
+.env/
+.venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS files
+.DS_Store
+
+# IDE
+.vscode/
+
+# Python packaging
+*.egg-info/
+dist/
+build/
+
+# Logs
+*.logdata/synthetic_transactions.csv
+data/financial_data.db
