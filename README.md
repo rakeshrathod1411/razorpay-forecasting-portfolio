@@ -86,7 +86,7 @@ source venv/bin/activate  # On Windows: venv\Scripts\activate
 pip install -r requirements.txt
 ```
 
-### 2. Setup Environment Variables
+### 2. Setup Environment Variables 
 Create a `.env` file in the root directory and add your credentials:
 ```env
 OPENAI_API_KEY=your_openai_api_key_here
@@ -125,5 +125,5 @@ streamlit run app.py
 ## 📄 License
 This project is for portfolio purposes.
 
-## 🤝 Author
+## 🤝 Author :
 [Rakesh Rathod](https://github.com/rakeshrathod1411)
